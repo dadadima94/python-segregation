@@ -2,7 +2,7 @@
 
 ## Description
 This project simulates a segregation experiment. The code is written in Python.
-Given a 100x100 grid filled non-uniformly with two types of agents, relocate the agents based on their happiness, which is given by the number of same-type neighbours. Two different function: relocate **all** unhappy agents every iteration or relocate **one** unhappy agent every iteration.
+Given a 100x100 grid filled non-uniformly and not entirely with two types of agents, relocate the agents based on their happiness, which is given by the number of same-type neighbours. Two different function: relocate **all** unhappy agents every iteration or relocate **one** unhappy agent every iteration.
 The results are showed in the form of a heat-map of the grid and the distribution of happiness before and after the relocation.
 
 ## Requirements
